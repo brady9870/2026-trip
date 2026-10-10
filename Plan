@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>2026 義大利瑞士之旅</title>
+		<style>
+			:root {
+			    --primary-color: #0066cc;
+			    --bg-color: #f0f2f5;
+			    --card-bg: #ffffff;
+			    --text-color: #333333;
+			    --text-light: #666666;
+			}
+			body {
+			    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+			    line-height: 1.6;
+			    background-color: var(--bg-color);
+			    color: var(--text-color);
+			    padding: 20px;
+			    max-width: 800px;
+			    margin: 0 auto;
+			}
+			header {
+			    text-align: center;
+			    padding: 40px 0 20px;
+			}
+			h1 { font-size: 2rem; margin-bottom: 10px; }
+			.link-btn { display: inline-block; background: var(--primary-color); color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-weight: bold; }
+
+			.toc { background: var(--card-bg); padding: 20px; border-radius: 12px; margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+			.toc ul { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px; text-align: center; }
+			.toc a { display: block; padding: 10px; background: #f8f9fa; border-radius: 8px; color: var(--primary-color); text-decoration: none; font-weight: bold; transition: 0.2s; }
+			.toc a:hover { background: #e6f0fa; }
+
+			.day-card { background: var(--card-bg); padding: 20px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border-left: 5px solid var(--primary-color); }
+			h2 { color: var(--primary-color); margin-top: 0; font-size: 1.3rem; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+			ul { padding-left: 20px; }
+			li { margin-bottom: 8px; }
+			.note { color: #d9534f; font-style: italic; }
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1>2026 義大利瑞士之旅 🇮🇹🇨🇭</h1>
+			<a class="link-btn" href="https://reurl.cc/R2yaon" target="_blank"
+				>🚂 查火車網站</a
+			>
+		</header>
+
+		<div class="toc">
+			<ul>
+				<li><a href="#day16">✈️ 10/16</a></li>
+				<li><a href="#day17">🏔️ 10/17</a></li>
+				<li><a href="#day18">🚠 10/18</a></li>
+				<li><a href="#day19">🚄 10/19</a></li>
+				<li><a href="#day20">📸 10/20</a></li>
+				<li><a href="#day21">🎨 10/21</a></li>
+				<li><a href="#day22">🏛️ 10/22</a></li>
+				<li><a href="#day23">🇻🇦 10/23</a></li>
+				<li><a href="#day24">🏰 10/24</a></li>
+				<li><a href="#day25">⛪ 10/25</a></li>
+				<li><a href="#day26">🛶 10/26</a></li>
+				<li><a href="#day27">🍕 10/27</a></li>
+				<li><a href="#day28">🏡 10/28</a></li>
+			</ul>
+		</div>
+
+		<div id="day16" class="day-card">
+			<h2>📅 10月16日：東京羽田 ➔ 台北 ➔ 米蘭</h2>
+			<ul>
+				<li>
+					✈️ <strong>航班 BR191：</strong> HND - TSA (12:40 - 15:05)
+				</li>
+				<li>
+					✈️ <strong>航班 BR95：</strong> TPE - MXP (23:15 - 10/17
+					07:35)
+				</li>
+			</ul>
+		</div>
+
+		<div id="day17" class="day-card">
+			<h2>📅 10月17日：策馬特 (Zermatt)</h2>
+			<ul>
+				<li>
+					🚄 <strong>列車 1：</strong> 09:21 - 11:52 (MXP T1 -
+					Domodossola)
+				</li>
+				<li>
+					🚄 <strong>列車 2：</strong> 11:58 - 14:21 (Domodossola -
+					Zermatt)
+					<span class="note"
+						>(⚠️ 備註：上最後的列車上記得寄 mail 給飯店)</span
+					>
+				</li>
+				<li><strong>景點：</strong> 馬特洪峰觀景台</li>
+				<li>🍽️ <strong>晚餐：</strong> 20:45 Schäferstube（烤羊排）</li>
+				<li>🏠 <strong>住宿：</strong> beausite Zermatt</li>
+			</ul>
+		</div>
+
+		<div id="day18" class="day-card">
+			<h2>📅 10月18日：策馬特</h2>
+			<ul>
+				<li>
+					🚠 <strong>活動：</strong> Matterhorn Glacier
+					Paradise（三段纜車）
+				</li>
+				<li>
+					🍽️ <strong>晚餐：</strong> 20:00 Theodors Stuba（起司鍋）
+				</li>
+				<li>🏠 <strong>住宿：</strong> beausite Zermatt</li>
+			</ul>
+		</div>
+
+		<div id="day19" class="day-card">
+			<h2>📅 10月19日：策馬特 ➔ 佛羅倫斯</h2>
+			<ul>
+				<li>
+					🚠 <strong>活動：</strong> Gornergrat（一段纜車約 30 mins)
+				</li>
+				<li>
+					🚄 <strong>列車：</strong> 13:03 - 19:04 (Zermatt - Firenze
+					S.M.N)
+				</li>
+				<li>
+					🏠 <strong>住宿：</strong> Pietrapiana Boutique Apartments
+				</li>
+			</ul>
+		</div>
+
+		<div id="day20" class="day-card">
+			<h2>📅 10月20日：佛羅倫斯（拍婚紗 day）</h2>
+			<ul>
+				<li>
+					<strong>行程：</strong> 婚紗工作室 (via dei neri
+					11)、米開朗琪羅廣場 (Piazzale Michelangelo)
+				</li>
+				<li>
+					🏠 <strong>住宿：</strong> Pietrapiana Boutique Apartments
+				</li>
+			</ul>
+		</div>
+
+		<div id="day21" class="day-card">
+			<h2>📅 10月21日：佛羅倫斯</h2>
+			<ul>
+				<li>🍽️ <strong>午餐：</strong> 中央市場 Da Nerbone</li>
+				<li><strong>景點：</strong> 12:00 百花大教堂</li>
+				<li>🍽️ <strong>點心：</strong> All’Antico Vinaio（三明治）</li>
+				<li>
+					<strong>景點：</strong> 16:30 學院藝廊（大衛像）<span
+						class="note"
+						>(⚠️ 小心出來地上不能踩到畫)</span
+					>
+				</li>
+				<li><strong>購物：</strong> SMN 百年修道院（買香水）</li>
+				<li>
+					<strong>景點：</strong>
+					領主廣場、烏菲茲美術館（有名但應該不去）
+				</li>
+				<li>
+					🍽️ <strong>晚餐：</strong> 20:30 Trattoria Zà
+					Zà（丁骨牛排，布丁聽說很厲害）
+				</li>
+				<li>
+					🏠 <strong>住宿：</strong> Pietrapiana Boutique Apartments
+				</li>
+			</ul>
+		</div>
+
+		<div id="day22" class="day-card">
+			<h2>📅 10月22日：佛羅倫斯 ➔ 羅馬</h2>
+			<ul>
+				<li>
+					🍽️ <strong>早上：</strong> Mercato di Sant’Ambrogio 市場 (Il
+					Trippaio Di Sant'Ambrogio)
+				</li>
+				<li>
+					🚄 <strong>列車：</strong> 13:28 - 15:10 (佛羅倫斯 - 羅馬)
+				</li>
+				<li><strong>景點：</strong> 特雷維噴泉、萬神殿、西班牙階梯</li>
+				<li>🏠 <strong>住宿：</strong> Camplus Hotel Roma Centro</li>
+			</ul>
+		</div>
+
+		<div id="day23" class="day-card">
+			<h2>📅 10月23日：羅馬、梵蒂岡</h2>
+			<ul>
+				<li>🏟️ <strong>09:50</strong> 羅馬競技場</li>
+				<li>🕌 <strong>17:30</strong> 梵蒂岡博物館</li>
+				<li>🍲 <strong>晚餐：</strong> Vinsanto Vino & Cucina</li>
+				<li>🏠 <strong>住宿：</strong> Camplus Hotel Roma Centro</li>
+			</ul>
+		</div>
+
+		<div id="day24" class="day-card">
+			<h2>📅 10月24日：羅馬</h2>
+			<ul>
+				<li>📷 <strong>07:30</strong> 萬獸場拍照</li>
+				<li>
+					🏯 <strong>17:00</strong> 聖天使城堡 (Castel Sant'Angelo)
+				</li>
+				<li>🍲 <strong>19:00</strong> Zia Restaurant</li>
+				<li>🏠 <strong>住宿：</strong> Camplus Hotel Roma Centro</li>
+			</ul>
+		</div>
+
+		<div id="day25" class="day-card">
+			<h2>📅 10月25日：羅馬 ➔ 米蘭</h2>
+			<ul>
+				<li>🚄 <strong>列車：</strong> 08:45 - 11:58 (羅馬 - 米蘭)</li>
+				<li>
+					<strong>景點：</strong> 米蘭大教堂
+					<span class="note">(10/20 搶免費參觀 museum)</span>
+				</li>
+				<li>🍽️ <strong>晚餐：</strong> 20:00 Ristorante Galleria</li>
+				<li>🏠 <strong>住宿：</strong> RESIDENZA DELLE CITTÀ</li>
+			</ul>
+		</div>
+
+		<div id="day26" class="day-card">
+			<h2>📅 10月26日：米蘭 ➔ 威尼斯 ➔ 米蘭</h2>
+			<ul>
+				<li>
+					🚄 <strong>列車：</strong> 06:46 - 09:17 (米蘭中央 - 威尼斯)
+				</li>
+				<li>🍽️ <strong>午餐：</strong> 12:30 La Piazza</li>
+				<li>🍦 <strong>點心：</strong> Suso 冰淇淋</li>
+				<li>
+					🚄 <strong>列車：</strong> 19:48 - 22:15 (威尼斯 - 米蘭中央)
+				</li>
+				<li>🏠 <strong>住宿：</strong> RESIDENZA DELLE CITTÀ</li>
+			</ul>
+		</div>
+
+		<div id="day27" class="day-card">
+			<h2>📅 10月27日：米蘭</h2>
+			<ul>
+				<li><strong>景點：</strong> 08:15 最後的晚餐</li>
+				<li>🍽️ <strong>晚餐：</strong> 20:30 Confine 披薩</li>
+				<li>🏠 <strong>住宿：</strong> RESIDENZA DELLE CITTÀ</li>
+			</ul>
+		</div>
+
+		<div id="day28" class="day-card">
+			<h2>📅 10月28日：飛回台灣</h2>
+			<ul>
+				<li>
+					✈️ <strong>航班 BR96：</strong> MXP - TPE (11:00 - 10/29
+					06:10)
+				</li>
+			</ul>
+		</div>
+	</body>
+</html>
